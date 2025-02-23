@@ -13,8 +13,3 @@ This project is a **client-server chat application** built using **Java Socket P
 - **Real-Time Communication**: Clients can exchange messages through the server.
 - **Multiple Client Support**: Several users can connect and chat at the same time.
 - **Simple and Lightweight**: Uses Java's built-in **`Socket`** and **`ServerSocket`** classes.
-
-## Technologies Used
-- **Java** (JDK)
-- **TCP Sockets**
-- **Multithreading**
